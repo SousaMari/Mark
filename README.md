@@ -1,4 +1,4 @@
-# Logica de programacao 5
+# Lógica de programacãoo 5
 Este repositório foi criado com foco educacional, reunindo conteúdos práticos e acessíveis para ensinar os fundamentos da análise exploratória de dados e modelos de machine learning em aulas de lógica de programação. Aqui, teoria e prática caminham juntas: ecada script foi pensado para facilitar o entendimento de conceitos-chave, estimular o raciocínio lógico e preparar estudantes para desafios reais da ciência de dados.
 Ideal para quem está começando, mas com espaço para quem quer ir além.
 
