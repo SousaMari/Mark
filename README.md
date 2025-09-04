@@ -29,13 +29,13 @@ Ideal para quem está começando, mas com espaço para quem quer ir além.
 
 ### Lógica de programação em python
 
-- [ ] variaveis 
-- [ ] entrada e saida de dados
-- [ ] estruturas condicionais
-    - [ ] if, elif, e else
-    - [ ] match case
-- [ ] estruturas de repetição
-     - [ ] for
-     - [ ] while
-- [ ] listas   
-- [ ] dicionarios   
+- [x] variaveis 
+- [x] entrada e saida de dados
+- [x] estruturas condicionais
+    - [x] if, elif, e else
+    - [x] match case
+- [x] estruturas de repetição
+     - [x] for
+     - [x] while
+- [x] listas   
+- [x] dicionarios   
